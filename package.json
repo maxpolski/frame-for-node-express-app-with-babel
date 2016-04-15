@@ -1,0 +1,16 @@
+{
+  "name": "factum",
+  "version": "0.0.1",
+  "description": "",
+  "main": "boot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxpolski",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.7.4",
+    "babel-register": "^6.7.2",
+    "express": "^4.13.4"
+  }
+}
